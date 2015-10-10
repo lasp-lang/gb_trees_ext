@@ -1,0 +1,12 @@
+{application, gb_trees_ext,
+ [
+  {description, "Generalized balance trees support library."},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {modules, []},
+  {env, []}
+ ]}.
