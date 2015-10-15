@@ -19,6 +19,9 @@
 %% under the License.
 %%
 %% -------------------------------------------------------------------
+%%
+%% Inspiration from:
+%% http://erlang.2086793.n4.nabble.com/gb-trees-fold-td2228614.html
 
 -module(gb_trees_ext).
 -author("Christopher Meiklejohn <christopher.meiklejohn@gmail.com").
